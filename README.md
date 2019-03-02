@@ -1,6 +1,6 @@
-# c-ligthning-plugin-CSVexportpays
+# A c-lightning plugin to export your payments as csv
 
-This plugin exports all payments you've made with your c-lighting node to a CSV file.
+This plugin exports all payments you've made with your c-lightning node to a CSV file.
 
 Start `lightningd` with the plugin specified as: `lightningd --plugin=path/to/csvexportpays.py`
 
