@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-This plugin exports all payments you've made with your c-lighting
+This plugin exports all payments you've made with your c-lightning
 node to a .csv file.
 
 Start `lightningd` with the plugin specified as:
